@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/weddingka/static/css/main.92462935.css",
+    "main.js": "/weddingka/static/js/main.8e83f8e9.js",
+    "static/js/787.4e789fa8.chunk.js": "/weddingka/static/js/787.4e789fa8.chunk.js",
+    "static/media/PERDMV.mp3": "/weddingka/static/media/PERDMV.58c7b3ba410d94f2c382.mp3",
+    "static/media/img8.png": "/weddingka/static/media/img8.4eb03cbf4b697b8fbfb4.png",
+    "static/media/img2.png": "/weddingka/static/media/img2.f74d9155445752ba6b88.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/weddingka/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
+    "static/media/img4.png": "/weddingka/static/media/img4.6ac62c9a224c396b92f5.png",
+    "static/media/car3.jpg": "/weddingka/static/media/car3.6f9b0fc366d7252f8c7c.jpg",
+    "static/media/img1.jpg": "/weddingka/static/media/img1.937f62631d399c700a1e.jpg",
+    "static/media/car1.jpg": "/weddingka/static/media/car1.a8279808f095d71426f4.jpg",
+    "static/media/car2.jpg": "/weddingka/static/media/car2.1062f7cc7b38abd73bbb.jpg",
+    "static/media/PetitFormalScript-Regular.ttf": "/weddingka/static/media/PetitFormalScript-Regular.d6bb784a3d10f7de2c81.ttf",
+    "static/media/img3.jpg": "/weddingka/static/media/img3.f5157237b2bb23abb97c.jpg",
+    "static/media/img7.png": "/weddingka/static/media/img7.dc2912215a92d2937b4c.png",
+    "static/media/intro.jpg": "/weddingka/static/media/intro.c5c05e432069829e8d5a.jpg",
+    "static/media/img6.png": "/weddingka/static/media/img6.8742ef57992632fb68e8.png",
+    "static/media/img5.png": "/weddingka/static/media/img5.02682d68b4626e971d2f.png",
+    "static/media/Montserrat-ExtraLight.otf": "/weddingka/static/media/Montserrat-ExtraLight.bf201011a21349894765.otf",
+    "static/media/PlayfairDisplay-VariableFont_wght.woff2": "/weddingka/static/media/PlayfairDisplay-VariableFont_wght.116f2b82c710c1433ff6.woff2",
+    "static/media/PetitFormalScript-Regular.woff2": "/weddingka/static/media/PetitFormalScript-Regular.55d2fa76170337b3c5df.woff2",
+    "static/media/Montserrat-ExtraLight.woff2": "/weddingka/static/media/Montserrat-ExtraLight.71bc4ca7ce271aec8fd0.woff2",
+    "static/media/Nexa-Light.ttf": "/weddingka/static/media/Nexa-Light.944a7d90327420ba9b14.ttf",
+    "static/media/Nexa-Light.woff2": "/weddingka/static/media/Nexa-Light.3eafa30bf4e34d4c98cf.woff2",
+    "index.html": "/weddingka/index.html",
+    "main.92462935.css.map": "/weddingka/static/css/main.92462935.css.map",
+    "main.8e83f8e9.js.map": "/weddingka/static/js/main.8e83f8e9.js.map",
+    "787.4e789fa8.chunk.js.map": "/weddingka/static/js/787.4e789fa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92462935.css",
+    "static/js/main.8e83f8e9.js"
+  ]
+}
