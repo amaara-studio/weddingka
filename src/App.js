@@ -87,7 +87,7 @@ function App() {
         Host: "smtp.elasticemail.com",
         Username: "wedd.dani.jorge@gmail.com",
         Password: "B6E151D762ABEC66E74C2A6E2F1A7D324AAD",
-        To: 'dannyrc24@gmail.com',
+        To: 'kimgorgd@gmail.com',
         From: "wedd.dani.jorge@gmail.com",
         Subject: "[Confirmacion Asistencia] Boda Kim y Alex",
         Body: body,
