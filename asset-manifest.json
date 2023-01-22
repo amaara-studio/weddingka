@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weddingka/static/css/main.92462935.css",
-    "main.js": "/weddingka/static/js/main.16d06e73.js",
+    "main.js": "/weddingka/static/js/main.b84c40c6.js",
     "static/js/787.4e789fa8.chunk.js": "/weddingka/static/js/787.4e789fa8.chunk.js",
     "static/media/PERDMV.mp3": "/weddingka/static/media/PERDMV.58c7b3ba410d94f2c382.mp3",
     "static/media/img8.png": "/weddingka/static/media/img8.4eb03cbf4b697b8fbfb4.png",
@@ -26,11 +26,11 @@
     "static/media/Nexa-Light.woff2": "/weddingka/static/media/Nexa-Light.3eafa30bf4e34d4c98cf.woff2",
     "index.html": "/weddingka/index.html",
     "main.92462935.css.map": "/weddingka/static/css/main.92462935.css.map",
-    "main.16d06e73.js.map": "/weddingka/static/js/main.16d06e73.js.map",
+    "main.b84c40c6.js.map": "/weddingka/static/js/main.b84c40c6.js.map",
     "787.4e789fa8.chunk.js.map": "/weddingka/static/js/787.4e789fa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92462935.css",
-    "static/js/main.16d06e73.js"
+    "static/js/main.b84c40c6.js"
   ]
 }
